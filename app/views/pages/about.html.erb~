@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>EMS | About</title>
+	</head>
+	<body>
+		<h1>About</h1>
+		<p>
+			This is the About page for the
+			Equipment Monitoring System sample application.
+		</p>
+	</body>
+</html>

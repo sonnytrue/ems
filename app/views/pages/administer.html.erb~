@@ -1,0 +1,7 @@
+		<h1>Administration</h1>
+		<p>
+			This is the administration page for the
+			Equipment Monitoring System sample application.
+		</p>
+<%= link_to "Service Report", servrep_path, :class => "signup_button round" %>
+
